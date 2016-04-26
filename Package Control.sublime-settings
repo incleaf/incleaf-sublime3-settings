@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Broceanic",
+		"Theme - Piatto"
+	]
+}
